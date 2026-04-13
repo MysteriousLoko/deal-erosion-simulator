@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+*.local
+.claude
+scripts/*.sql
+scripts/__pycache__
